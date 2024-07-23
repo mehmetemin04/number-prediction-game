@@ -2,7 +2,7 @@ import random
 
 score = 0
 right_to_guess = 0
-random_number = random.randint(1,10)
+random_number = random.randint(1,20)
 
 while right_to_guess < 5:
     try:
